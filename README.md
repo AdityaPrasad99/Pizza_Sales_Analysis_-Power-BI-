@@ -17,4 +17,4 @@ The Pizza Sales Analysis provides a comprehensive examination of the sales perfo
 
 #### Key Metrics
 1. **Average Order Value (AOV)**: Measures the mean value of all orders placed. This is calculated by dividing the total sales revenue by the number of orders.
-2. **Peak Order Hour**: Identifies the specific hour with the highest volume of orders, enabling optimal scheduling and
+2. **Peak Order Hour**: Identifies the specific hour with the highest volume of orders.
